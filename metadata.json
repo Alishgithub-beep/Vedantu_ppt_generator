@@ -1,0 +1,8 @@
+{
+  "name": "VedaSmart AI PPT Generator",
+  "description": "An intelligent educational tool for Vedantu that transforms PDF chapters into interactive Class 10 study decks with AI-generated explanations, diagrams, and quizzes.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
